@@ -12,7 +12,7 @@ const otherLinks = socialLinks.filter((link) => !link.url.startsWith('mailto:'))
       <div class="mx-auto mt-3 h-1 w-16 rounded bg-blue-600"></div>
 
       <p class="mx-auto mt-4 max-w-xl text-slate-600">
-        I'm open to work, internships, and collaborations. Send me a message and I'll get back to
+        I'm open to work, internships, and collaborations. Send me a message and I'll reach out to
         you.
       </p>
 
