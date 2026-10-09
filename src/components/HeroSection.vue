@@ -15,8 +15,7 @@
       </h2>
 
       <p class="mt-6 max-w-xl text-slate-600">
-        I troubleshoot hardware, program microcontrollers, and develop network and build GUI
-        software
+        I troubleshoot hardware, program microcontrollers, develop network, and build GUI software
       </p>
 
       <div class="mt-10 flex flex-wrap gap-4">
@@ -31,6 +30,13 @@
           class="rounded-lg border border-slate-300 px-6 py-3 font-medium text-slate-800 transition-colors hover:bg-white"
         >
           Contact Me
+        </a>
+        <a
+          href="/Curriculum Vitae (JamesAFCorpuz).pdf"
+          download="James_Allistaire_F._Corpuz-Resume.pdf"
+          class="rounded-lg border border-blue-600 px-6 py-3 font-medium text-blue-600 transition hover:-translate-y-0.5 hover:bg-blue-50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
+        >
+          Download Resume
         </a>
       </div>
     </div>

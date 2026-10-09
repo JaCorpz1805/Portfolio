@@ -16,6 +16,14 @@ export const projects: Project[] = [
     description: 'Spinning Globe is a mouse-controlled GUI',
     technologies: ['Python', 'Tkinter'],
     image: '/projects/Mouse-Controlled-Spinning-Circle Screenshot.jpg',
-    githubUrl: 'https://github.com/JaCorpz1805/Spinning-cube-Mouse-Controlled-using-Tkinter',
+    githubUrl: 'https://github.com/JaCorpz1805/The-3D-Globe-with-Tkinter',
+  },
+  {
+    id: 3,
+    title: 'Brick Breaker Game',
+    description: 'A 2D brick breaker game made with Java Swing.',
+    technologies: ['Java', 'Swing'],
+    image: '/projects/Brick-Breaker-Java.jpg',
+    githubUrl: 'https://github.com/JaCorpz1805/The-Brick-Breaker-Beginner-in-Java.git',
   },
 ]

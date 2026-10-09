@@ -31,10 +31,10 @@ const hasPhoto = ref(true)
         <!-- Text -->
         <div class="md:col-span-2">
           <p class="leading-relaxed text-slate-600">
-            I'm a 4th year Computer Engineering student at Cagayan State University, who has a
-            passion for technology and innovation. I enjoy working with computers, electronics,
-            networking, Aritificial Intelligence,and programming, and I'm always looking for ways to
-            improve my skills and knowledge.
+            I'm a 4th year Computer Engineering student at Cagayan State University - Carig Campus,
+            who has a passion for technology and innovation. I enjoy working with computers,
+            electronics, networking, Aritificial Intelligence,and programming, and I'm always
+            looking for ways to improve my skills and knowledge.
           </p>
           <p class="mt-4 leading-relaxed text-slate-600">
             I'm willing to learn, and I like turning practical problems into simple, reliable
@@ -44,8 +44,10 @@ const hasPhoto = ref(true)
           <!-- Quick facts -->
           <dl class="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-3">
             <div>
-              <dt class="text-sm text-slate-500">Location</dt>
-              <dd class="font-medium text-slate-900">Tuguegarao City, Cagayan, Philippines</dd>
+              <dt class="text-sm text-slate-500">Address</dt>
+              <dd class="font-medium text-slate-900">
+                Centro 04, Tuguegarao City, Cagayan, Philippines
+              </dd>
             </div>
             <div>
               <dt class="text-sm text-slate-500">Focus</dt>

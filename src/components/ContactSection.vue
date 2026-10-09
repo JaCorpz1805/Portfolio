@@ -6,7 +6,7 @@ const otherLinks = socialLinks.filter((link) => !link.url.startsWith('mailto:'))
 </script>
 
 <template>
-  <section id="contact" class="scroll-mt-20 bg-white">
+  <section id="contact" class="scroll-mt-20 bg-slate-50">
     <div class="mx-auto max-w-6xl px-6 py-20 text-center">
       <h2 class="text-3xl font-bold text-slate-900">Get In Touch</h2>
       <div class="mx-auto mt-3 h-1 w-16 rounded bg-blue-600"></div>
@@ -22,7 +22,7 @@ const otherLinks = socialLinks.filter((link) => !link.url.startsWith('mailto:'))
         :href="emailLink.url"
         class="mt-8 inline-block rounded-lg bg-blue-600 px-8 py-3 font-medium text-white transition-colors hover:bg-blue-700"
       >
-        Email Me
+        Email Me: jamescorpuz1805@gmail.com
       </a>
 
       <!-- Other links -->

@@ -10,7 +10,7 @@ const year = new Date().getFullYear()
       class="mx-auto flex max-w-6xl flex-col items-center gap-4 px-6 md:flex-row md:justify-between"
     >
       <!-- Left: copyright -->
-      <p class="text-sm">&copy; {{ year }} Your Name. All rights reserved.</p>
+      <p class="text-sm">&copy; {{ year }} HydromatterDevPortfolio. All rights reserved.</p>
 
       <!-- Right: social links -->
       <ul class="flex gap-6">
